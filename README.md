@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-A simple Tic Tac Toe game built with Python using Object-Oriented Programming (OOP).
+A simple Tic-Tac-Toe game built with Python using Object-Oriented Programming (OOP).
 
 ## Concepts Used
 
