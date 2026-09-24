@@ -16,4 +16,4 @@ A simple Tic-Tac-Toe game built with Python using Object-Oriented Programming (O
 
 The complete implementation is available in:
 
-`tic_tac_toe.ipynb`
+`Tic_Tac_Toe.ipynb`
